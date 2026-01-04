@@ -33,5 +33,5 @@
 - Đảm bảo môi trường thực hành ổn định khi chạy trò chơi.
 
 ## Liên kết
-Toàn bộ mã nguồn dự án được lưu trữ tại: [Brickout_FPGA trên GitHub](https://github.com/username/Brickout_FPGA)
+Toàn bộ mã nguồn dự án được lưu trữ tại: [Brickout_FPGA trên GitHub](https://github.com/dathavan1523/Brickout_FPGA/tree/main)
 
